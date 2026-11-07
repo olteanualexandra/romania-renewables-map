@@ -6,8 +6,8 @@ A small spatial analysis project that maps wind and solar generation sites acros
 - Wind: [harta_eolian_ro.html](https://olteanualexandra.github.io/romania-renewables-map/harta_eolian_ro.html)
 - Solar: [harta_solar_ro.html](https://olteanualexandra.github.io/romania-renewables-map/harta_solar_ro.html)
 
-[Wind map](images/eolian.png) 
-[Solar map](images/solar.png) 
+[Wind map](eolian.png) 
+[Solar map](solar.png) 
 
 ## What it does
 
